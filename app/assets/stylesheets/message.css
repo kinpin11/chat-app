@@ -142,7 +142,8 @@
   color: white;
   padding: 12px;
   width: 60px;
-  margin: 5px 10px;text-align: center;
+  margin: 5px 10px;
+  text-align: center;
 }
 .hidden{
   display: none;
